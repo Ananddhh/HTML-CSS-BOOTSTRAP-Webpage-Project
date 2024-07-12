@@ -32,3 +32,36 @@ header {
     font-size: 1.2rem;
     margin-bottom: 20px;
 }
+
+.banner .btn {
+    background-color: #009688;
+    color: #fff;
+}
+
+.banner img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.small-plants {
+    text-align: center;
+}
+
+.small-plants h4 {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.small-plant-images {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.small-plant-images img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 8px;
+}
